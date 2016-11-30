@@ -1,0 +1,107 @@
+
+
+body {
+height:100%;
+margin:0px;
+background-image: url(../img/background.png);
+background-size: cover;
+position: static;
+}
+
+img.moon{
+position: absolute;
+bottom: 0px;
+width: 100%;
+height: 30%;
+}
+
+table.option{
+position: absolute;
+left: 10px;
+top: 10px;
+heigth: 30%;
+width: 60%;
+}
+
+img.opt{
+heigth: 50%;
+width: 50%;
+}
+
+img.cat{
+position: absolute;
+left:10%;
+top:70%;
+visibility: visible;
+z-index:1;
+heigth: 10%;
+width: 10%;
+}
+
+img.nave{
+position: absolute;
+right:30%;
+top:10%;
+heigth: 7%;
+width: 7%;}
+
+img.help{
+position: absolute;
+right:2%;
+top: 1%;
+heigth: 10%;
+width: 10%;
+}
+
+table.data{
+position: absolute;
+left:5%;
+top: 20%;
+heigth: 20%;
+width: 40%;
+}
+
+p.tabfont{
+color:#FFFFFF;
+font-size: 4vw;
+font-family:Comic Sans MS;
+align: center;}
+
+img.fuel{
+heigth: 100%;
+width: 100%;}
+
+img.turbo{
+position: absolute;
+height:13%;
+width:20%;
+top: 50%;
+left:2%;}
+
+#pausa{
+position: absolute;
+top: 40%;
+left: 40%;
+display:none;
+font-family:Comic Sans MS;
+color:white;
+border:2px solid #FFFFFF;}
+
+#ayuda{
+position: absolute;
+top: 40%;
+left: 50%;
+display:none;
+font-family:Comic Sans MS;
+color:white;
+border:2px solid #FFFFFF;
+heigth: 40%;
+width: 40%;
+z-index:1;}
+
+img.acerca{
+position: absolute;
+right: 2%;
+top: 10%;
+heigth: 10%;
+width: 10%;}
