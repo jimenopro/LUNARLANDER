@@ -21,6 +21,7 @@ left: 10px;
 top: 10px;
 heigth: 10%;
 width: 20%;
+min-width: 200px;
 }
 
 img.opt{
@@ -81,7 +82,7 @@ right:5%;
 top: 30%;
 heigth: 7%;
 width:7%;
-}
+min-width: 75px;}
 
 #pausa{
 position: absolute;
@@ -109,7 +110,9 @@ position: absolute;
 right: 5%;
 bottom: 29%;
 heigth: 5%;
-width: 5%;}
+width: 5%;
+visibility: visible;
+z-index:1;}
 
 #acerca{
 position: absolute;
@@ -119,5 +122,5 @@ font-family:Comic Sans MS;
 color:white;
 border:2px solid #FFFFFF;
 heigth: 40%;
-width: 40%;
+width: 30%;
 z-index:1;}
