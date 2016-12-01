@@ -21,6 +21,7 @@ left: 10px;
 top: 10px;
 heigth: 10%;
 width: 20%;
+min-width: 200px;
 }
 
 img.opt{
@@ -81,7 +82,7 @@ right:5%;
 top: 30%;
 heigth: 7%;
 width:7%;
-}
+min-width: 75px;}
 
 #pausa{
 position: absolute;
