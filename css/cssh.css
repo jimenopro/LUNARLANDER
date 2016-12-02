@@ -91,7 +91,8 @@ left: 40%;
 display:none;
 font-family:Comic Sans MS;
 color:white;
-border:2px solid #FFFFFF;}
+border:2px solid #FFFFFF;
+z-index:1;}
 
 #ayuda{
 position: absolute;
